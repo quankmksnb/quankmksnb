@@ -1,4 +1,4 @@
-<h1>Hi, I am a senior at FPT University.</h1>
+<h1>Hi, I am a senior student at FPT University.</h1>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/mqn161271/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:quannguyenkm16122004@gmail.com) 
