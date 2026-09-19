@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nguyen Minh Quan</h1>
-<h3 align="center">Fullstack Developer (Node.js) — Junior Developer @ IDB Corporation</h3>
+<h3 align="center">Fullstack Developer — Junior Developer @ IDB Corporation</h3>
 
 <p align="center">
   I build web apps and business systems end to end — from gathering requirements with real users to shipping features that stay in daily use.
